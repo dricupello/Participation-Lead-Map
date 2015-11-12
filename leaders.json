@@ -96,6 +96,14 @@
                         "lat": 22.34,
                         "lng": 88.24
                 },
+                ,{
+                       "name": "Adriano Cupello", 
+                       "url": "https://mozillians.org/en-US/u/dricupello",
+                       "gravatar": "dricupello@gmail.com",
+                       "country": "Brazil",
+                       "lat": -22.910775,
+                       "lng": -43.106492
+                },
                 {
                         "name": "Sumanth Damarla", 
                         "url": "https://mozillians.org/en-US/u/sumanth/",
@@ -103,7 +111,8 @@
                         "country": "India",
                         "lat": 17.385044,
                         "lng": 78.486671
-                }
+                },
+                
                 
 	]
 }
